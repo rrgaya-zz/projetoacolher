@@ -1,0 +1,36 @@
+Modelos para criação do site do projeto acolher
+
+Usuarios -> faz o cadastro de usuarios no sistema
+tipo de usuario -> administrador
+tipo de usuario -> comum
+
+
+Termos de ajustamento -> Cadastra termos de ajustamento
+data do termo
+data conlclusão do termo
+
+
+Planos de trabalho -> faz o cadastro dos planos de trabalho
+data plano
+validade
+Descrição do plano de trabalho
+
+Relação nominal dos dirigentes -> faz a relação de dirigentes da entidade
+
+rnd -- presidente -- vice-presidente -- secretario -- tesoureiro -- segundo secretario --
+
+repasses -> relação dos repasses que a insituição recebe
+
+
+lista prestadores de serviço e valores pagos
+
+
+remuneração dirigentes e funcionarios -> Nomes, Cargos
+
+Balancos -> insere os balaços do projeto acolher
+
+Relatorios fisicos financeiros acompanhamento
+
+regulamento compras
+
+regulamento de contratação pessoal
