@@ -1,5 +1,5 @@
 import django_heroku
-from dbset import dbinfo
+
 ...
 
 # All of your settings here
