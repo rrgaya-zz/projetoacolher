@@ -35,7 +35,7 @@ SECRET_KEY = '4lb-7fqf(6vs-%g+)j^ez71019bzody%hro=#+^di@lh9d0sdl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://www.acolherjoanopolis.org.br']
+ALLOWED_HOSTS = ['www.acolherjoanopolis.org.br']
 
 
 # Application definition
