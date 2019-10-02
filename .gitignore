@@ -4,4 +4,10 @@
 *.pyc
 __pycache__/
 local_settings.py
-dbset.py
+dbset.py 
+venv
+.idea
+db.sqlite3
+requirements-dev.txt
+migrations/
+.env
